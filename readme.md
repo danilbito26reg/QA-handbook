@@ -1,5 +1,4 @@
 ## Микросервисная архитектура
- - [Сравнение микросервисной и монолитной архитектур](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith) [статья📋]
  - [Микросервисная архитектура, подходы и технологии](https://www.youtube.com/watch?v=FF-GZ7iipwc) [youtube📺]
  - [Микросервисы VS Монолит. Какую архитектуру выбрать?](https://www.youtube.com/watch?v=PmIrrFqOfn8) [youtube📺]
  - [26 основных паттернов микросервисной разработки](https://mcs.mail.ru/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki) [статья📋]
