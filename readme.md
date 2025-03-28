@@ -5,7 +5,6 @@
  - [Микросервисы: как определить, подойдут ли они вашему проекту](https://www.simbirsoft.com/blog/mikroservisy-nachalo-raboty/) [статья📋]
 
 ## Брокеры сообщений
- - [Про Kafka (основы)]( https://www.youtube.com/watch?v=-AZOi3kP9Js) [youtube📺]  
  - [Apache Kafka урок 1. Зачем нужна, что это? RabbitMQ vs Kafka vs БД]( https://youtu.be/DvXPKUUl38w) [youtube📺]  
  - [Apache Kafka основы Урок 2. Что такое broker, consumer, producer, topic, partition и т.д.]( https://youtu.be/i8ULypfr6kM) [youtube📺]   
  - [Надежность Apache Kafka. Урок 3]( https://youtu.be/hY9WfVRVFPE) [youtube📺]  
